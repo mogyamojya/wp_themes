@@ -1,2 +1,2 @@
-# wp_themes_original1
+# wp_themes
 WordPress練習用リポジトリ
