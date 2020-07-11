@@ -1,3 +1,12 @@
-*
+/*
 !.gitignore
-!/wp-content/themes/original1
+
+!/wp-content/
+/wp-content/*
+
+!/wp-content/themes/
+/wp-content/themes/*
+
+!/wp-content/themes/original1/
+
+/wp-content/themes/original1/node_modules/
